@@ -1,0 +1,59 @@
+/* this is the style.css :D */
+
+    h1 {
+      color: #FFFFFF;
+      font-family: Abel;
+    }
+    
+    hr {
+      background-color: #FFFFFF;
+      height: 4px;
+      color: #FFFFFF;
+    }
+      
+     #button {
+       border: none;
+       background-color: #030d40;
+       color: #030d40;
+     }
+    
+    img {
+      padding: 1px;
+      
+    }
+    
+    iframe {
+      border-radius: 20px;
+      border-width: 4px;
+      border-color: #550099;
+    }
+    
+    #home {
+      padding: 9px;
+    }
+   
+    .topbar {
+      background-color: #030d20;
+      overflow: hidden;
+    }
+
+    .topbar a {
+      font-family: Abel;
+      float: left;
+      color: #f2f2f2;
+      padding: 16px;
+      font-size: 20px;
+    }
+
+     topbar a:hover {
+       background-color: #500060;
+       color: #00060;
+      }
+
+    #omgg {
+      width: 100%;
+      background-color: #030d30;
+      color: #030d20;
+      border: none;
+    }
+     
