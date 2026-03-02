@@ -1,0 +1,2 @@
+Hello there, please do not put files outside of their folders. I don't know why, but Flappy Bird just breaks if I do. Thank you!
+-Xenon B. Hassium
