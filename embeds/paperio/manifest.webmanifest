@@ -1,0 +1,22 @@
+{
+	"short_name": "Paper.io 2",
+	"name": "Paper.io 2",
+	"description": "",
+	"start_url": "/",
+	"background_color": "#000000",
+	"theme_color": "#000000",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "favicons/favicon-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "favicons/favicon-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		}
+	]
+}
